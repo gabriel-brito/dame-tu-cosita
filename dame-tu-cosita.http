@@ -1,0 +1,6 @@
+@dame_tu_cosita_HostAddress = http://localhost:5215
+
+GET {{dame_tu_cosita_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
